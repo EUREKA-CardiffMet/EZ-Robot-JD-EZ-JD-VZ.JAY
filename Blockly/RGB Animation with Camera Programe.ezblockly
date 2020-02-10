@@ -1,0 +1,1 @@
+<xml xmlns="http://www.w3.org/1999/xhtml"><block type="wait_for_face" id="$bWC44_-cdOTu{$GxhqP" x="55" y="38"><next><block type="control_command" id="KRYI+=))#=|5K+2+@X^A"><field name="Cmd">12-|-RGB Animator-|-AutoPositionAction, "Demo"</field></block></next></block></xml>

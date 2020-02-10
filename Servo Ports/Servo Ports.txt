@@ -1,0 +1,36 @@
+Chest and Shoulder Servos Left Shoulder: D3
+
+Chest and Shoulder Servos Right Shoulder: D2
+
+Head Camera: 
+
+Head Horizontal: D0
+
+Head RGB Eyes: 
+
+Head Vertical: D1
+
+Left Foot Ankle: D14
+
+Left Foot Knee: D13
+
+Left Forearm Servo: D5
+
+Left Gripper Servo: D6
+
+Left Upper Arm : D4
+
+Left Upper Leg Servo: D12
+
+Right Foot Ankle: D18
+
+Right Foot Knee: D17
+
+Right Forearm Servo: D8
+
+Right Gripper Servo: D9
+
+Right Upper Arm : D7
+
+Right Upper Leg Servo: D16
+
